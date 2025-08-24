@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="VIT.png" width="400"/>
+</p>
 
 # CRYPTOGRAPHY AND NETWORK SECURITY LAB
  This repository is crafted with a single powerful mission: to serve as the definitive reference for Cryptography and Network Security (CNS) lab exams. 
