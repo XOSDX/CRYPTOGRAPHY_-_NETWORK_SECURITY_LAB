@@ -86,11 +86,7 @@ pip install -r requirements.txt
 
 ## 🏆 Highlights
 
-✔️ Covers 13 labs end-to-end
-✔️ Implements both classical & modern cryptography
-✔️ Includes attack simulations & packet analysis
-✔️ Clean, modular Python code
-✔️ Tailor-made as a lab exam reference weapon
+✔️ Covers 13 labs end-to-end ✔️ Implements both classical & modern cryptography ✔️ Includes attack simulations & packet analysis ✔️ Clean, modular Python code ✔️ Tailor-made as a lab exam reference weapon
 
 ---
 
