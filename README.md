@@ -10,8 +10,7 @@ This repository is crafted with a **single powerful mission**: to serve as the *
 
 Forget flipping through random notes, outdated slides, or half-baked code snippets at the last minute — this repo is your **all-in-one survival kit**. Every single lab program you’re expected to know for your **university lab exams** is implemented here in clean, executable Python code, with outputs and explanations to back it up.  
 
-⚡ **Bottom line:** If your CNS lab exam is a storm, this repo is the **ark that sails you through**. Walk into the lab not as a student fumbling through syntax, but as the one who has the answers professors secretly hope you don’t.  
-
+⚡ **Bottom line:** If your CNS lab exam is a storm, this repo is the **ark that sails you through**.
 ---
 
 ## 📖 Table of Contents
